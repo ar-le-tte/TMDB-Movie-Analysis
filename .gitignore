@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Jupyter noise
+.ipynb_checkpoints/
+
+#junk files
+.DS_Store
+Thumbs.db
